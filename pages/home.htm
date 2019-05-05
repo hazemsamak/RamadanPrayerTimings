@@ -1,0 +1,38 @@
+
+<div class="spinner" ng-show="loading">
+    <img src="https://www.nasa.gov/multimedia/videogallery/ajax-loader.gif" />
+</div>
+
+
+<table class="table table-sm table-striped">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col" align="left">#</th>
+      <th scope="col" align="left">اليوم</th>
+      <th scope="col" align="left">التاريخ</th>
+      <th scope="col" align="left">الفجر</th>
+      <th scope="col" align="left">الشروق</th>
+      <th scope="col" align="left">الظهر</th>
+      <th scope="col" align="left">العصر</th>
+      <th scope="col" align="left">المغرب</th>
+      <th scope="col" align="left">العشاء</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="day in days.data" ng-class="getClass('{{day.date.gregorian.date}}')">
+      <th scope="row">{{day.date.hijri.day}}</th>
+      <td align="left">{{day.date.hijri.weekday.ar}}</td>
+      <td align="left">{{day.date.gregorian.date}}</td>
+      <td style="font-weight:bold;color: #DC143C;" align="left">{{tConvert(day.timings.Fajr)}}</td>
+      <td align="left">{{tConvert(day.timings.Sunrise)}}</td>
+      <td align="left">{{tConvert(day.timings.Dhuhr)}}</td>
+      <td align="left">{{tConvert(day.timings.Asr)}}</td>
+      <td style="font-weight:bold;color: #32CD32;" align="left">{{tConvert(day.timings.Maghrib)}}</td>
+      <td align="left">{{tConvert(day.timings.Isha)}}</td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+
