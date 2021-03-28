@@ -1,1 +1,2376 @@
-{"code":200,"status":"OK","data":[{"timings":{"Fajr":"04:16 (+04)","Sunrise":"05:36 (+04)","Dhuhr":"12:18 (+04)","Asr":"15:46 (+04)","Sunset":"18:56 (+04)","Maghrib":"18:56 (+04)","Isha":"20:16 (+04)","Imsak":"04:06 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"06 May 2019","timestamp":"1557118861","gregorian":{"date":"06-05-2019","format":"DD-MM-YYYY","day":"06","weekday":{"en":"Monday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"01-09-1440","format":"DD-MM-YYYY","day":"01","weekday":{"en":"Al Athnayn","ar":"\u0627\u0644\u0627\u062b\u0646\u064a\u0646"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":["1st Day of Ramadan"]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:16 (+04)","Sunrise":"05:35 (+04)","Dhuhr":"12:18 (+04)","Asr":"15:46 (+04)","Sunset":"18:56 (+04)","Maghrib":"18:56 (+04)","Isha":"20:17 (+04)","Imsak":"04:06 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"07 May 2019","timestamp":"1557205261","gregorian":{"date":"07-05-2019","format":"DD-MM-YYYY","day":"07","weekday":{"en":"Tuesday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"02-09-1440","format":"DD-MM-YYYY","day":"02","weekday":{"en":"Al Thalaata","ar":"\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:15 (+04)","Sunrise":"05:35 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:46 (+04)","Sunset":"18:57 (+04)","Maghrib":"18:57 (+04)","Isha":"20:18 (+04)","Imsak":"04:05 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"08 May 2019","timestamp":"1557291661","gregorian":{"date":"08-05-2019","format":"DD-MM-YYYY","day":"08","weekday":{"en":"Wednesday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"03-09-1440","format":"DD-MM-YYYY","day":"03","weekday":{"en":"Al Arba'a","ar":"\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:14 (+04)","Sunrise":"05:34 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:46 (+04)","Sunset":"18:57 (+04)","Maghrib":"18:57 (+04)","Isha":"20:18 (+04)","Imsak":"04:04 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"09 May 2019","timestamp":"1557378061","gregorian":{"date":"09-05-2019","format":"DD-MM-YYYY","day":"09","weekday":{"en":"Thursday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"04-09-1440","format":"DD-MM-YYYY","day":"04","weekday":{"en":"Al Khamees","ar":"\u0627\u0644\u062e\u0645\u064a\u0633"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:13 (+04)","Sunrise":"05:33 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:45 (+04)","Sunset":"18:58 (+04)","Maghrib":"18:58 (+04)","Isha":"20:19 (+04)","Imsak":"04:03 (+04)","Midnight":"00:15 (+04)"},"date":{"readable":"10 May 2019","timestamp":"1557464461","gregorian":{"date":"10-05-2019","format":"DD-MM-YYYY","day":"10","weekday":{"en":"Friday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"05-09-1440","format":"DD-MM-YYYY","day":"05","weekday":{"en":"Al Juma'a","ar":"\u0627\u0644\u062c\u0645\u0639\u0629"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:12 (+04)","Sunrise":"05:33 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:45 (+04)","Sunset":"18:58 (+04)","Maghrib":"18:58 (+04)","Isha":"20:20 (+04)","Imsak":"04:02 (+04)","Midnight":"00:15 (+04)"},"date":{"readable":"11 May 2019","timestamp":"1557550861","gregorian":{"date":"11-05-2019","format":"DD-MM-YYYY","day":"11","weekday":{"en":"Saturday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"06-09-1440","format":"DD-MM-YYYY","day":"06","weekday":{"en":"Al Sabt","ar":"\u0627\u0644\u0633\u0628\u062a"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:11 (+04)","Sunrise":"05:32 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:45 (+04)","Sunset":"18:59 (+04)","Maghrib":"18:59 (+04)","Isha":"20:21 (+04)","Imsak":"04:01 (+04)","Midnight":"00:15 (+04)"},"date":{"readable":"12 May 2019","timestamp":"1557637261","gregorian":{"date":"12-05-2019","format":"DD-MM-YYYY","day":"12","weekday":{"en":"Sunday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"07-09-1440","format":"DD-MM-YYYY","day":"07","weekday":{"en":"Al Ahad","ar":"\u0627\u0644\u0627\u062d\u062f"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:11 (+04)","Sunrise":"05:32 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:45 (+04)","Sunset":"18:59 (+04)","Maghrib":"18:59 (+04)","Isha":"20:21 (+04)","Imsak":"04:01 (+04)","Midnight":"00:15 (+04)"},"date":{"readable":"13 May 2019","timestamp":"1557723661","gregorian":{"date":"13-05-2019","format":"DD-MM-YYYY","day":"13","weekday":{"en":"Monday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"08-09-1440","format":"DD-MM-YYYY","day":"08","weekday":{"en":"Al Athnayn","ar":"\u0627\u0644\u0627\u062b\u0646\u064a\u0646"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:10 (+04)","Sunrise":"05:31 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:45 (+04)","Sunset":"19:00 (+04)","Maghrib":"19:00 (+04)","Isha":"20:22 (+04)","Imsak":"04:00 (+04)","Midnight":"00:15 (+04)"},"date":{"readable":"14 May 2019","timestamp":"1557810061","gregorian":{"date":"14-05-2019","format":"DD-MM-YYYY","day":"14","weekday":{"en":"Tuesday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"09-09-1440","format":"DD-MM-YYYY","day":"09","weekday":{"en":"Al Thalaata","ar":"\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:09 (+04)","Sunrise":"05:31 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:45 (+04)","Sunset":"19:00 (+04)","Maghrib":"19:00 (+04)","Isha":"20:23 (+04)","Imsak":"03:59 (+04)","Midnight":"00:15 (+04)"},"date":{"readable":"15 May 2019","timestamp":"1557896461","gregorian":{"date":"15-05-2019","format":"DD-MM-YYYY","day":"15","weekday":{"en":"Wednesday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"10-09-1440","format":"DD-MM-YYYY","day":"10","weekday":{"en":"Al Arba'a","ar":"\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:08 (+04)","Sunrise":"05:30 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:44 (+04)","Sunset":"19:01 (+04)","Maghrib":"19:01 (+04)","Isha":"20:23 (+04)","Imsak":"03:58 (+04)","Midnight":"00:15 (+04)"},"date":{"readable":"16 May 2019","timestamp":"1557982861","gregorian":{"date":"16-05-2019","format":"DD-MM-YYYY","day":"16","weekday":{"en":"Thursday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"11-09-1440","format":"DD-MM-YYYY","day":"11","weekday":{"en":"Al Khamees","ar":"\u0627\u0644\u062e\u0645\u064a\u0633"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:08 (+04)","Sunrise":"05:30 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:44 (+04)","Sunset":"19:01 (+04)","Maghrib":"19:01 (+04)","Isha":"20:24 (+04)","Imsak":"03:58 (+04)","Midnight":"00:15 (+04)"},"date":{"readable":"17 May 2019","timestamp":"1558069261","gregorian":{"date":"17-05-2019","format":"DD-MM-YYYY","day":"17","weekday":{"en":"Friday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"12-09-1440","format":"DD-MM-YYYY","day":"12","weekday":{"en":"Al Juma'a","ar":"\u0627\u0644\u062c\u0645\u0639\u0629"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:07 (+04)","Sunrise":"05:29 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:44 (+04)","Sunset":"19:02 (+04)","Maghrib":"19:02 (+04)","Isha":"20:25 (+04)","Imsak":"03:57 (+04)","Midnight":"00:15 (+04)"},"date":{"readable":"18 May 2019","timestamp":"1558155661","gregorian":{"date":"18-05-2019","format":"DD-MM-YYYY","day":"18","weekday":{"en":"Saturday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"13-09-1440","format":"DD-MM-YYYY","day":"13","weekday":{"en":"Al Sabt","ar":"\u0627\u0644\u0633\u0628\u062a"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:06 (+04)","Sunrise":"05:29 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:44 (+04)","Sunset":"19:02 (+04)","Maghrib":"19:02 (+04)","Isha":"20:26 (+04)","Imsak":"03:56 (+04)","Midnight":"00:15 (+04)"},"date":{"readable":"19 May 2019","timestamp":"1558242061","gregorian":{"date":"19-05-2019","format":"DD-MM-YYYY","day":"19","weekday":{"en":"Sunday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"14-09-1440","format":"DD-MM-YYYY","day":"14","weekday":{"en":"Al Ahad","ar":"\u0627\u0644\u0627\u062d\u062f"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:06 (+04)","Sunrise":"05:28 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:44 (+04)","Sunset":"19:03 (+04)","Maghrib":"19:03 (+04)","Isha":"20:26 (+04)","Imsak":"03:56 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"20 May 2019","timestamp":"1558328461","gregorian":{"date":"20-05-2019","format":"DD-MM-YYYY","day":"20","weekday":{"en":"Monday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"15-09-1440","format":"DD-MM-YYYY","day":"15","weekday":{"en":"Al Athnayn","ar":"\u0627\u0644\u0627\u062b\u0646\u064a\u0646"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:05 (+04)","Sunrise":"05:28 (+04)","Dhuhr":"12:17 (+04)","Asr":"15:44 (+04)","Sunset":"19:03 (+04)","Maghrib":"19:03 (+04)","Isha":"20:27 (+04)","Imsak":"03:55 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"21 May 2019","timestamp":"1558414861","gregorian":{"date":"21-05-2019","format":"DD-MM-YYYY","day":"21","weekday":{"en":"Tuesday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"16-09-1440","format":"DD-MM-YYYY","day":"16","weekday":{"en":"Al Thalaata","ar":"\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:05 (+04)","Sunrise":"05:27 (+04)","Dhuhr":"12:18 (+04)","Asr":"15:44 (+04)","Sunset":"19:04 (+04)","Maghrib":"19:04 (+04)","Isha":"20:28 (+04)","Imsak":"03:55 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"22 May 2019","timestamp":"1558501261","gregorian":{"date":"22-05-2019","format":"DD-MM-YYYY","day":"22","weekday":{"en":"Wednesday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"17-09-1440","format":"DD-MM-YYYY","day":"17","weekday":{"en":"Al Arba'a","ar":"\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:04 (+04)","Sunrise":"05:27 (+04)","Dhuhr":"12:18 (+04)","Asr":"15:44 (+04)","Sunset":"19:04 (+04)","Maghrib":"19:04 (+04)","Isha":"20:29 (+04)","Imsak":"03:54 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"23 May 2019","timestamp":"1558587661","gregorian":{"date":"23-05-2019","format":"DD-MM-YYYY","day":"23","weekday":{"en":"Thursday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"18-09-1440","format":"DD-MM-YYYY","day":"18","weekday":{"en":"Al Khamees","ar":"\u0627\u0644\u062e\u0645\u064a\u0633"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:04 (+04)","Sunrise":"05:27 (+04)","Dhuhr":"12:18 (+04)","Asr":"15:44 (+04)","Sunset":"19:05 (+04)","Maghrib":"19:05 (+04)","Isha":"20:29 (+04)","Imsak":"03:54 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"24 May 2019","timestamp":"1558674061","gregorian":{"date":"24-05-2019","format":"DD-MM-YYYY","day":"24","weekday":{"en":"Friday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"19-09-1440","format":"DD-MM-YYYY","day":"19","weekday":{"en":"Al Juma'a","ar":"\u0627\u0644\u062c\u0645\u0639\u0629"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:03 (+04)","Sunrise":"05:26 (+04)","Dhuhr":"12:18 (+04)","Asr":"15:44 (+04)","Sunset":"19:05 (+04)","Maghrib":"19:05 (+04)","Isha":"20:30 (+04)","Imsak":"03:53 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"25 May 2019","timestamp":"1558760461","gregorian":{"date":"25-05-2019","format":"DD-MM-YYYY","day":"25","weekday":{"en":"Saturday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"20-09-1440","format":"DD-MM-YYYY","day":"20","weekday":{"en":"Al Sabt","ar":"\u0627\u0644\u0633\u0628\u062a"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:03 (+04)","Sunrise":"05:26 (+04)","Dhuhr":"12:18 (+04)","Asr":"15:44 (+04)","Sunset":"19:06 (+04)","Maghrib":"19:06 (+04)","Isha":"20:31 (+04)","Imsak":"03:53 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"26 May 2019","timestamp":"1558846861","gregorian":{"date":"26-05-2019","format":"DD-MM-YYYY","day":"26","weekday":{"en":"Sunday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"21-09-1440","format":"DD-MM-YYYY","day":"21","weekday":{"en":"Al Ahad","ar":"\u0627\u0644\u0627\u062d\u062f"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":["Lailat-ul-Qadr"]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:02 (+04)","Sunrise":"05:26 (+04)","Dhuhr":"12:18 (+04)","Asr":"15:43 (+04)","Sunset":"19:06 (+04)","Maghrib":"19:06 (+04)","Isha":"20:31 (+04)","Imsak":"03:52 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"27 May 2019","timestamp":"1558933261","gregorian":{"date":"27-05-2019","format":"DD-MM-YYYY","day":"27","weekday":{"en":"Monday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"22-09-1440","format":"DD-MM-YYYY","day":"22","weekday":{"en":"Al Athnayn","ar":"\u0627\u0644\u0627\u062b\u0646\u064a\u0646"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:02 (+04)","Sunrise":"05:26 (+04)","Dhuhr":"12:18 (+04)","Asr":"15:43 (+04)","Sunset":"19:07 (+04)","Maghrib":"19:07 (+04)","Isha":"20:32 (+04)","Imsak":"03:52 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"28 May 2019","timestamp":"1559019661","gregorian":{"date":"28-05-2019","format":"DD-MM-YYYY","day":"28","weekday":{"en":"Tuesday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"23-09-1440","format":"DD-MM-YYYY","day":"23","weekday":{"en":"Al Thalaata","ar":"\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":["Lailat-ul-Qadr"]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:01 (+04)","Sunrise":"05:25 (+04)","Dhuhr":"12:18 (+04)","Asr":"15:43 (+04)","Sunset":"19:07 (+04)","Maghrib":"19:07 (+04)","Isha":"20:33 (+04)","Imsak":"03:51 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"29 May 2019","timestamp":"1559106061","gregorian":{"date":"29-05-2019","format":"DD-MM-YYYY","day":"29","weekday":{"en":"Wednesday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"24-09-1440","format":"DD-MM-YYYY","day":"24","weekday":{"en":"Al Arba'a","ar":"\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:01 (+04)","Sunrise":"05:25 (+04)","Dhuhr":"12:18 (+04)","Asr":"15:43 (+04)","Sunset":"19:08 (+04)","Maghrib":"19:08 (+04)","Isha":"20:33 (+04)","Imsak":"03:51 (+04)","Midnight":"00:16 (+04)"},"date":{"readable":"30 May 2019","timestamp":"1559192461","gregorian":{"date":"30-05-2019","format":"DD-MM-YYYY","day":"30","weekday":{"en":"Thursday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"25-09-1440","format":"DD-MM-YYYY","day":"25","weekday":{"en":"Al Khamees","ar":"\u0627\u0644\u062e\u0645\u064a\u0633"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":["Lailat-ul-Qadr"]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:00 (+04)","Sunrise":"05:25 (+04)","Dhuhr":"12:19 (+04)","Asr":"15:43 (+04)","Sunset":"19:08 (+04)","Maghrib":"19:08 (+04)","Isha":"20:34 (+04)","Imsak":"03:50 (+04)","Midnight":"00:17 (+04)"},"date":{"readable":"31 May 2019","timestamp":"1559278861","gregorian":{"date":"31-05-2019","format":"DD-MM-YYYY","day":"31","weekday":{"en":"Friday"},"month":{"number":5,"en":"May"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"26-09-1440","format":"DD-MM-YYYY","day":"26","weekday":{"en":"Al Juma'a","ar":"\u0627\u0644\u062c\u0645\u0639\u0629"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:00 (+04)","Sunrise":"05:25 (+04)","Dhuhr":"12:19 (+04)","Asr":"15:43 (+04)","Sunset":"19:09 (+04)","Maghrib":"19:09 (+04)","Isha":"20:35 (+04)","Imsak":"03:50 (+04)","Midnight":"00:17 (+04)"},"date":{"readable":"01 Jun 2019","timestamp":"1559365261","gregorian":{"date":"01-06-2019","format":"DD-MM-YYYY","day":"01","weekday":{"en":"Saturday"},"month":{"number":6,"en":"June"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"27-09-1440","format":"DD-MM-YYYY","day":"27","weekday":{"en":"Al Sabt","ar":"\u0627\u0644\u0633\u0628\u062a"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":["Lailat-ul-Qadr"]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:00 (+04)","Sunrise":"05:25 (+04)","Dhuhr":"12:19 (+04)","Asr":"15:43 (+04)","Sunset":"19:09 (+04)","Maghrib":"19:09 (+04)","Isha":"20:35 (+04)","Imsak":"03:50 (+04)","Midnight":"00:17 (+04)"},"date":{"readable":"02 Jun 2019","timestamp":"1559451661","gregorian":{"date":"02-06-2019","format":"DD-MM-YYYY","day":"02","weekday":{"en":"Sunday"},"month":{"number":6,"en":"June"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"28-09-1440","format":"DD-MM-YYYY","day":"28","weekday":{"en":"Al Ahad","ar":"\u0627\u0644\u0627\u062d\u062f"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"04:00 (+04)","Sunrise":"05:24 (+04)","Dhuhr":"12:19 (+04)","Asr":"15:44 (+04)","Sunset":"19:10 (+04)","Maghrib":"19:10 (+04)","Isha":"20:36 (+04)","Imsak":"03:50 (+04)","Midnight":"00:17 (+04)"},"date":{"readable":"03 Jun 2019","timestamp":"1559538061","gregorian":{"date":"03-06-2019","format":"DD-MM-YYYY","day":"03","weekday":{"en":"Monday"},"month":{"number":6,"en":"June"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"29-09-1440","format":"DD-MM-YYYY","day":"29","weekday":{"en":"Al Athnayn","ar":"\u0627\u0644\u0627\u062b\u0646\u064a\u0646"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":["Lailat-ul-Qadr"]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}},{"timings":{"Fajr":"03:59 (+04)","Sunrise":"05:24 (+04)","Dhuhr":"12:19 (+04)","Asr":"15:44 (+04)","Sunset":"19:10 (+04)","Maghrib":"19:10 (+04)","Isha":"20:36 (+04)","Imsak":"03:49 (+04)","Midnight":"00:17 (+04)"},"date":{"readable":"04 Jun 2019","timestamp":"1559624461","gregorian":{"date":"04-06-2019","format":"DD-MM-YYYY","day":"04","weekday":{"en":"Tuesday"},"month":{"number":6,"en":"June"},"year":"2019","designation":{"abbreviated":"AD","expanded":"Anno Domini"}},"hijri":{"date":"30-09-1440","format":"DD-MM-YYYY","day":"30","weekday":{"en":"Al Thalaata","ar":"\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"},"month":{"number":9,"en":"Rama\u1e0d\u0101n","ar":"\u0631\u064e\u0645\u064e\u0636\u0627\u0646"},"year":"1440","designation":{"abbreviated":"AH","expanded":"Anno Hegirae"},"holidays":[]}},"meta":{"latitude":25.2048493,"longitude":55.2707828,"timezone":"Asia\/Dubai","method":{"name":"Custom","params":{"Fajr":"18.5","Isha":"18.5"}},"latitudeAdjustmentMethod":"ANGLE_BASED","midnightMode":"STANDARD","school":"STANDARD","offset":{"Imsak":"2","Fajr":"2","Sunrise":"-4","Dhuhr":"2","Asr":"3","Maghrib":"4","Sunset":"4","Isha":"-1","Midnight":0}}}]}
+{
+    "code": 200,
+    "data": [{
+            "date": {
+                "gregorian": {
+                    "date": "13-04-2021",
+                    "day": "13",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Tuesday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "01-09-1442",
+                    "day": "01",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": ["1st Day of Ramadan"],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621",
+                        "en": "Al Thalaata"
+                    },
+                    "year": "1442"
+                },
+                "readable": "13 Apr 2021",
+                "timestamp": "1618290061"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:51 (+04)",
+                "Dhuhr": "12:21 (+04)",
+                "Fajr": "04:40 (+04)",
+                "Imsak": "04:30 (+04)",
+                "Isha": "20:01 (+04)",
+                "Maghrib": "18:45 (+04)",
+                "Midnight": "00:20 (+04)",
+                "Sunrise": "05:54 (+04)",
+                "Sunset": "18:45 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "14-04-2021",
+                    "day": "14",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Wednesday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "02-09-1442",
+                    "day": "02",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621",
+                        "en": "Al Arba'a"
+                    },
+                    "year": "1442"
+                },
+                "readable": "14 Apr 2021",
+                "timestamp": "1618376461"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:51 (+04)",
+                "Dhuhr": "12:21 (+04)",
+                "Fajr": "04:38 (+04)",
+                "Imsak": "04:28 (+04)",
+                "Isha": "20:01 (+04)",
+                "Maghrib": "18:45 (+04)",
+                "Midnight": "00:19 (+04)",
+                "Sunrise": "05:54 (+04)",
+                "Sunset": "18:45 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "15-04-2021",
+                    "day": "15",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Thursday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "03-09-1442",
+                    "day": "03",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062e\u0645\u064a\u0633",
+                        "en": "Al Khamees"
+                    },
+                    "year": "1442"
+                },
+                "readable": "15 Apr 2021",
+                "timestamp": "1618462861"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:51 (+04)",
+                "Dhuhr": "12:21 (+04)",
+                "Fajr": "04:37 (+04)",
+                "Imsak": "04:27 (+04)",
+                "Isha": "20:02 (+04)",
+                "Maghrib": "18:46 (+04)",
+                "Midnight": "00:19 (+04)",
+                "Sunrise": "05:53 (+04)",
+                "Sunset": "18:46 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "16-04-2021",
+                    "day": "16",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Friday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "04-09-1442",
+                    "day": "04",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062c\u0645\u0639\u0629",
+                        "en": "Al Juma'a"
+                    },
+                    "year": "1442"
+                },
+                "readable": "16 Apr 2021",
+                "timestamp": "1618549261"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:51 (+04)",
+                "Dhuhr": "12:21 (+04)",
+                "Fajr": "04:36 (+04)",
+                "Imsak": "04:26 (+04)",
+                "Isha": "20:03 (+04)",
+                "Maghrib": "18:46 (+04)",
+                "Midnight": "00:19 (+04)",
+                "Sunrise": "05:52 (+04)",
+                "Sunset": "18:46 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "17-04-2021",
+                    "day": "17",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Saturday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "05-09-1442",
+                    "day": "05",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0633\u0628\u062a",
+                        "en": "Al Sabt"
+                    },
+                    "year": "1442"
+                },
+                "readable": "17 Apr 2021",
+                "timestamp": "1618635661"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:50 (+04)",
+                "Dhuhr": "12:20 (+04)",
+                "Fajr": "04:35 (+04)",
+                "Imsak": "04:25 (+04)",
+                "Isha": "20:03 (+04)",
+                "Maghrib": "18:47 (+04)",
+                "Midnight": "00:19 (+04)",
+                "Sunrise": "05:51 (+04)",
+                "Sunset": "18:47 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "18-04-2021",
+                    "day": "18",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Sunday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "06-09-1442",
+                    "day": "06",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u062d\u062f",
+                        "en": "Al Ahad"
+                    },
+                    "year": "1442"
+                },
+                "readable": "18 Apr 2021",
+                "timestamp": "1618722061"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:50 (+04)",
+                "Dhuhr": "12:20 (+04)",
+                "Fajr": "04:34 (+04)",
+                "Imsak": "04:24 (+04)",
+                "Isha": "20:04 (+04)",
+                "Maghrib": "18:47 (+04)",
+                "Midnight": "00:18 (+04)",
+                "Sunrise": "05:50 (+04)",
+                "Sunset": "18:47 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "19-04-2021",
+                    "day": "19",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Monday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "07-09-1442",
+                    "day": "07",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646",
+                        "en": "Al Athnayn"
+                    },
+                    "year": "1442"
+                },
+                "readable": "19 Apr 2021",
+                "timestamp": "1618808461"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:50 (+04)",
+                "Dhuhr": "12:20 (+04)",
+                "Fajr": "04:33 (+04)",
+                "Imsak": "04:23 (+04)",
+                "Isha": "20:05 (+04)",
+                "Maghrib": "18:48 (+04)",
+                "Midnight": "00:18 (+04)",
+                "Sunrise": "05:49 (+04)",
+                "Sunset": "18:48 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "20-04-2021",
+                    "day": "20",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Tuesday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "08-09-1442",
+                    "day": "08",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621",
+                        "en": "Al Thalaata"
+                    },
+                    "year": "1442"
+                },
+                "readable": "20 Apr 2021",
+                "timestamp": "1618894861"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:50 (+04)",
+                "Dhuhr": "12:20 (+04)",
+                "Fajr": "04:32 (+04)",
+                "Imsak": "04:22 (+04)",
+                "Isha": "20:05 (+04)",
+                "Maghrib": "18:48 (+04)",
+                "Midnight": "00:18 (+04)",
+                "Sunrise": "05:48 (+04)",
+                "Sunset": "18:48 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "21-04-2021",
+                    "day": "21",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Wednesday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "09-09-1442",
+                    "day": "09",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621",
+                        "en": "Al Arba'a"
+                    },
+                    "year": "1442"
+                },
+                "readable": "21 Apr 2021",
+                "timestamp": "1618981261"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:50 (+04)",
+                "Dhuhr": "12:20 (+04)",
+                "Fajr": "04:31 (+04)",
+                "Imsak": "04:21 (+04)",
+                "Isha": "20:06 (+04)",
+                "Maghrib": "18:48 (+04)",
+                "Midnight": "00:18 (+04)",
+                "Sunrise": "05:47 (+04)",
+                "Sunset": "18:48 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "22-04-2021",
+                    "day": "22",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Thursday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "10-09-1442",
+                    "day": "10",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062e\u0645\u064a\u0633",
+                        "en": "Al Khamees"
+                    },
+                    "year": "1442"
+                },
+                "readable": "22 Apr 2021",
+                "timestamp": "1619067661"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:49 (+04)",
+                "Dhuhr": "12:19 (+04)",
+                "Fajr": "04:30 (+04)",
+                "Imsak": "04:20 (+04)",
+                "Isha": "20:07 (+04)",
+                "Maghrib": "18:49 (+04)",
+                "Midnight": "00:18 (+04)",
+                "Sunrise": "05:46 (+04)",
+                "Sunset": "18:49 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "23-04-2021",
+                    "day": "23",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Friday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "11-09-1442",
+                    "day": "11",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062c\u0645\u0639\u0629",
+                        "en": "Al Juma'a"
+                    },
+                    "year": "1442"
+                },
+                "readable": "23 Apr 2021",
+                "timestamp": "1619154061"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:49 (+04)",
+                "Dhuhr": "12:19 (+04)",
+                "Fajr": "04:29 (+04)",
+                "Imsak": "04:19 (+04)",
+                "Isha": "20:07 (+04)",
+                "Maghrib": "18:49 (+04)",
+                "Midnight": "00:17 (+04)",
+                "Sunrise": "05:45 (+04)",
+                "Sunset": "18:49 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "24-04-2021",
+                    "day": "24",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Saturday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "12-09-1442",
+                    "day": "12",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0633\u0628\u062a",
+                        "en": "Al Sabt"
+                    },
+                    "year": "1442"
+                },
+                "readable": "24 Apr 2021",
+                "timestamp": "1619240461"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:49 (+04)",
+                "Dhuhr": "12:19 (+04)",
+                "Fajr": "04:28 (+04)",
+                "Imsak": "04:18 (+04)",
+                "Isha": "20:08 (+04)",
+                "Maghrib": "18:50 (+04)",
+                "Midnight": "00:17 (+04)",
+                "Sunrise": "05:45 (+04)",
+                "Sunset": "18:50 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "25-04-2021",
+                    "day": "25",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Sunday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "13-09-1442",
+                    "day": "13",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u062d\u062f",
+                        "en": "Al Ahad"
+                    },
+                    "year": "1442"
+                },
+                "readable": "25 Apr 2021",
+                "timestamp": "1619326861"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:49 (+04)",
+                "Dhuhr": "12:19 (+04)",
+                "Fajr": "04:27 (+04)",
+                "Imsak": "04:17 (+04)",
+                "Isha": "20:09 (+04)",
+                "Maghrib": "18:50 (+04)",
+                "Midnight": "00:17 (+04)",
+                "Sunrise": "05:44 (+04)",
+                "Sunset": "18:50 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "26-04-2021",
+                    "day": "26",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Monday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "14-09-1442",
+                    "day": "14",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646",
+                        "en": "Al Athnayn"
+                    },
+                    "year": "1442"
+                },
+                "readable": "26 Apr 2021",
+                "timestamp": "1619413261"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:48 (+04)",
+                "Dhuhr": "12:19 (+04)",
+                "Fajr": "04:26 (+04)",
+                "Imsak": "04:16 (+04)",
+                "Isha": "20:09 (+04)",
+                "Maghrib": "18:51 (+04)",
+                "Midnight": "00:17 (+04)",
+                "Sunrise": "05:43 (+04)",
+                "Sunset": "18:51 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "27-04-2021",
+                    "day": "27",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Tuesday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "15-09-1442",
+                    "day": "15",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621",
+                        "en": "Al Thalaata"
+                    },
+                    "year": "1442"
+                },
+                "readable": "27 Apr 2021",
+                "timestamp": "1619499661"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:48 (+04)",
+                "Dhuhr": "12:19 (+04)",
+                "Fajr": "04:25 (+04)",
+                "Imsak": "04:15 (+04)",
+                "Isha": "20:10 (+04)",
+                "Maghrib": "18:51 (+04)",
+                "Midnight": "00:17 (+04)",
+                "Sunrise": "05:42 (+04)",
+                "Sunset": "18:51 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "28-04-2021",
+                    "day": "28",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Wednesday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "16-09-1442",
+                    "day": "16",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621",
+                        "en": "Al Arba'a"
+                    },
+                    "year": "1442"
+                },
+                "readable": "28 Apr 2021",
+                "timestamp": "1619586061"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:48 (+04)",
+                "Dhuhr": "12:18 (+04)",
+                "Fajr": "04:24 (+04)",
+                "Imsak": "04:14 (+04)",
+                "Isha": "20:11 (+04)",
+                "Maghrib": "18:52 (+04)",
+                "Midnight": "00:17 (+04)",
+                "Sunrise": "05:41 (+04)",
+                "Sunset": "18:52 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "29-04-2021",
+                    "day": "29",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Thursday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "17-09-1442",
+                    "day": "17",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062e\u0645\u064a\u0633",
+                        "en": "Al Khamees"
+                    },
+                    "year": "1442"
+                },
+                "readable": "29 Apr 2021",
+                "timestamp": "1619672461"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:48 (+04)",
+                "Dhuhr": "12:18 (+04)",
+                "Fajr": "04:23 (+04)",
+                "Imsak": "04:13 (+04)",
+                "Isha": "20:11 (+04)",
+                "Maghrib": "18:52 (+04)",
+                "Midnight": "00:16 (+04)",
+                "Sunrise": "05:41 (+04)",
+                "Sunset": "18:52 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "30-04-2021",
+                    "day": "30",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "April",
+                        "number": 4
+                    },
+                    "weekday": {
+                        "en": "Friday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "18-09-1442",
+                    "day": "18",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062c\u0645\u0639\u0629",
+                        "en": "Al Juma'a"
+                    },
+                    "year": "1442"
+                },
+                "readable": "30 Apr 2021",
+                "timestamp": "1619758861"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:47 (+04)",
+                "Dhuhr": "12:18 (+04)",
+                "Fajr": "04:22 (+04)",
+                "Imsak": "04:12 (+04)",
+                "Isha": "20:12 (+04)",
+                "Maghrib": "18:53 (+04)",
+                "Midnight": "00:16 (+04)",
+                "Sunrise": "05:40 (+04)",
+                "Sunset": "18:53 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "01-05-2021",
+                    "day": "01",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Saturday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "19-09-1442",
+                    "day": "19",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0633\u0628\u062a",
+                        "en": "Al Sabt"
+                    },
+                    "year": "1442"
+                },
+                "readable": "01 May 2021",
+                "timestamp": "1619845261"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:47 (+04)",
+                "Dhuhr": "12:18 (+04)",
+                "Fajr": "04:21 (+04)",
+                "Imsak": "04:11 (+04)",
+                "Isha": "20:13 (+04)",
+                "Maghrib": "18:53 (+04)",
+                "Midnight": "00:16 (+04)",
+                "Sunrise": "05:39 (+04)",
+                "Sunset": "18:53 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "02-05-2021",
+                    "day": "02",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Sunday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "20-09-1442",
+                    "day": "20",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u062d\u062f",
+                        "en": "Al Ahad"
+                    },
+                    "year": "1442"
+                },
+                "readable": "02 May 2021",
+                "timestamp": "1619931661"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:47 (+04)",
+                "Dhuhr": "12:18 (+04)",
+                "Fajr": "04:20 (+04)",
+                "Imsak": "04:10 (+04)",
+                "Isha": "20:14 (+04)",
+                "Maghrib": "18:54 (+04)",
+                "Midnight": "00:16 (+04)",
+                "Sunrise": "05:38 (+04)",
+                "Sunset": "18:54 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "03-05-2021",
+                    "day": "03",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Monday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "21-09-1442",
+                    "day": "21",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": ["Lailat-ul-Qadr"],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646",
+                        "en": "Al Athnayn"
+                    },
+                    "year": "1442"
+                },
+                "readable": "03 May 2021",
+                "timestamp": "1620018061"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:47 (+04)",
+                "Dhuhr": "12:18 (+04)",
+                "Fajr": "04:19 (+04)",
+                "Imsak": "04:09 (+04)",
+                "Isha": "20:14 (+04)",
+                "Maghrib": "18:54 (+04)",
+                "Midnight": "00:16 (+04)",
+                "Sunrise": "05:38 (+04)",
+                "Sunset": "18:54 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "04-05-2021",
+                    "day": "04",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Tuesday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "22-09-1442",
+                    "day": "22",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621",
+                        "en": "Al Thalaata"
+                    },
+                    "year": "1442"
+                },
+                "readable": "04 May 2021",
+                "timestamp": "1620104461"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:46 (+04)",
+                "Dhuhr": "12:18 (+04)",
+                "Fajr": "04:18 (+04)",
+                "Imsak": "04:08 (+04)",
+                "Isha": "20:15 (+04)",
+                "Maghrib": "18:55 (+04)",
+                "Midnight": "00:16 (+04)",
+                "Sunrise": "05:37 (+04)",
+                "Sunset": "18:55 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "05-05-2021",
+                    "day": "05",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Wednesday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "23-09-1442",
+                    "day": "23",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": ["Lailat-ul-Qadr"],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621",
+                        "en": "Al Arba'a"
+                    },
+                    "year": "1442"
+                },
+                "readable": "05 May 2021",
+                "timestamp": "1620190861"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:46 (+04)",
+                "Dhuhr": "12:18 (+04)",
+                "Fajr": "04:17 (+04)",
+                "Imsak": "04:07 (+04)",
+                "Isha": "20:16 (+04)",
+                "Maghrib": "18:55 (+04)",
+                "Midnight": "00:16 (+04)",
+                "Sunrise": "05:36 (+04)",
+                "Sunset": "18:55 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "06-05-2021",
+                    "day": "06",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Thursday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "24-09-1442",
+                    "day": "24",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062e\u0645\u064a\u0633",
+                        "en": "Al Khamees"
+                    },
+                    "year": "1442"
+                },
+                "readable": "06 May 2021",
+                "timestamp": "1620277261"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:46 (+04)",
+                "Dhuhr": "12:18 (+04)",
+                "Fajr": "04:16 (+04)",
+                "Imsak": "04:06 (+04)",
+                "Isha": "20:16 (+04)",
+                "Maghrib": "18:56 (+04)",
+                "Midnight": "00:16 (+04)",
+                "Sunrise": "05:35 (+04)",
+                "Sunset": "18:56 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "07-05-2021",
+                    "day": "07",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Friday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "25-09-1442",
+                    "day": "25",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": ["Lailat-ul-Qadr"],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062c\u0645\u0639\u0629",
+                        "en": "Al Juma'a"
+                    },
+                    "year": "1442"
+                },
+                "readable": "07 May 2021",
+                "timestamp": "1620363661"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:46 (+04)",
+                "Dhuhr": "12:17 (+04)",
+                "Fajr": "04:15 (+04)",
+                "Imsak": "04:05 (+04)",
+                "Isha": "20:17 (+04)",
+                "Maghrib": "18:56 (+04)",
+                "Midnight": "00:16 (+04)",
+                "Sunrise": "05:35 (+04)",
+                "Sunset": "18:56 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "08-05-2021",
+                    "day": "08",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Saturday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "26-09-1442",
+                    "day": "26",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0633\u0628\u062a",
+                        "en": "Al Sabt"
+                    },
+                    "year": "1442"
+                },
+                "readable": "08 May 2021",
+                "timestamp": "1620450061"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:46 (+04)",
+                "Dhuhr": "12:17 (+04)",
+                "Fajr": "04:14 (+04)",
+                "Imsak": "04:04 (+04)",
+                "Isha": "20:18 (+04)",
+                "Maghrib": "18:57 (+04)",
+                "Midnight": "00:16 (+04)",
+                "Sunrise": "05:34 (+04)",
+                "Sunset": "18:57 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "09-05-2021",
+                    "day": "09",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Sunday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "27-09-1442",
+                    "day": "27",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": ["Lailat-ul-Qadr"],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u062d\u062f",
+                        "en": "Al Ahad"
+                    },
+                    "year": "1442"
+                },
+                "readable": "09 May 2021",
+                "timestamp": "1620536461"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:45 (+04)",
+                "Dhuhr": "12:17 (+04)",
+                "Fajr": "04:13 (+04)",
+                "Imsak": "04:03 (+04)",
+                "Isha": "20:19 (+04)",
+                "Maghrib": "18:57 (+04)",
+                "Midnight": "00:16 (+04)",
+                "Sunrise": "05:34 (+04)",
+                "Sunset": "18:57 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "10-05-2021",
+                    "day": "10",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Monday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "28-09-1442",
+                    "day": "28",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646",
+                        "en": "Al Athnayn"
+                    },
+                    "year": "1442"
+                },
+                "readable": "10 May 2021",
+                "timestamp": "1620622861"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:45 (+04)",
+                "Dhuhr": "12:17 (+04)",
+                "Fajr": "04:13 (+04)",
+                "Imsak": "04:03 (+04)",
+                "Isha": "20:19 (+04)",
+                "Maghrib": "18:58 (+04)",
+                "Midnight": "00:15 (+04)",
+                "Sunrise": "05:33 (+04)",
+                "Sunset": "18:58 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "11-05-2021",
+                    "day": "11",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Tuesday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "29-09-1442",
+                    "day": "29",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": ["Lailat-ul-Qadr"],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621",
+                        "en": "Al Thalaata"
+                    },
+                    "year": "1442"
+                },
+                "readable": "11 May 2021",
+                "timestamp": "1620709261"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:45 (+04)",
+                "Dhuhr": "12:17 (+04)",
+                "Fajr": "04:12 (+04)",
+                "Imsak": "04:02 (+04)",
+                "Isha": "20:20 (+04)",
+                "Maghrib": "18:58 (+04)",
+                "Midnight": "00:15 (+04)",
+                "Sunrise": "05:32 (+04)",
+                "Sunset": "18:58 (+04)"
+            }
+        }, {
+            "date": {
+                "gregorian": {
+                    "date": "12-05-2021",
+                    "day": "12",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "month": {
+                        "en": "May",
+                        "number": 5
+                    },
+                    "weekday": {
+                        "en": "Wednesday"
+                    },
+                    "year": "2021"
+                },
+                "hijri": {
+                    "date": "30-09-1442",
+                    "day": "30",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "format": "DD-MM-YYYY",
+                    "holidays": [],
+                    "month": {
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646",
+                        "en": "Rama\u1e0d\u0101n",
+                        "number": 9
+                    },
+                    "weekday": {
+                        "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621",
+                        "en": "Al Arba'a"
+                    },
+                    "year": "1442"
+                },
+                "readable": "12 May 2021",
+                "timestamp": "1620795661"
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "longitude": 55.2707828,
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5"
+                    }
+                },
+                "midnightMode": "STANDARD",
+                "offset": {
+                    "Asr": "3",
+                    "Dhuhr": "2",
+                    "Fajr": "2",
+                    "Imsak": "2",
+                    "Isha": "-1",
+                    "Maghrib": "4",
+                    "Midnight": 0,
+                    "Sunrise": "-4",
+                    "Sunset": "4"
+                },
+                "school": "STANDARD",
+                "timezone": "Asia\/Dubai"
+            },
+            "timings": {
+                "Asr": "15:45 (+04)",
+                "Dhuhr": "12:17 (+04)",
+                "Fajr": "04:11 (+04)",
+                "Imsak": "04:01 (+04)",
+                "Isha": "20:21 (+04)",
+                "Maghrib": "18:59 (+04)",
+                "Midnight": "00:15 (+04)",
+                "Sunrise": "05:32 (+04)",
+                "Sunset": "18:59 (+04)"
+            }
+        }
+    ],
+    "status": "OK"
+}
