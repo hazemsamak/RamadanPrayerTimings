@@ -4,6 +4,89 @@
     "data": [
         {
             "timings": {
+                "Fajr": "04:52 (+04)",
+                "Sunrise": "06:06 (+04)",
+                "Dhuhr": "12:25 (+04)",
+                "Asr": "15:54 (+04)",
+                "Sunset": "18:40 (+04)",
+                "Maghrib": "18:40 (+04)",
+                "Isha": "19:54 (+04)",
+                "Imsak": "04:42 (+04)",
+                "Midnight": "00:23 (+04)"
+            },
+            "date": {
+                "readable": "02 Apr 2022",
+                "timestamp": "1648875661",
+                "gregorian": {
+                    "date": "02-04-2022",
+                    "format": "DD-MM-YYYY",
+                    "day": "02",
+                    "weekday": {
+                        "en": "Saturday"
+                    },
+                    "month": {
+                        "number": 4,
+                        "en": "April"
+                    },
+                    "year": "2022",
+                    "designation": {
+                        "abbreviated": "AD",
+                        "expanded": "Anno Domini"
+                    }
+                },
+                "hijri": {
+                    "date": "01-09-1443",
+                    "format": "DD-MM-YYYY",
+                    "day": "01",
+                    "weekday": {
+                        "en": "Al Sabt",
+                        "ar": "\u0627\u0644\u0633\u0628\u062a"
+                    },
+                    "month": {
+                        "number": 9,
+                        "en": "Rama\u1e0d\u0101n",
+                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646"
+                    },
+                    "year": "1443",
+                    "designation": {
+                        "abbreviated": "AH",
+                        "expanded": "Anno Hegirae"
+                    },
+                    "holidays": [
+                        "1st Day of Ramadan"
+                    ]
+                }
+            },
+            "meta": {
+                "latitude": 25.2048493,
+                "longitude": 55.2707828,
+                "timezone": "Asia\/Dubai",
+                "method": {
+                    "name": "Custom",
+                    "params": {
+                        "Fajr": "18.5",
+                        "Isha": "18.5",
+                        "Maghrib": "null"
+                    }
+                },
+                "latitudeAdjustmentMethod": "ANGLE_BASED",
+                "midnightMode": "STANDARD",
+                "school": "STANDARD",
+                "offset": {
+                    "Imsak": "2",
+                    "Fajr": "2",
+                    "Sunrise": "-4",
+                    "Dhuhr": "2",
+                    "Asr": "3",
+                    "Maghrib": "4",
+                    "Sunset": "4",
+                    "Isha": "-1",
+                    "Midnight": 0
+                }
+            }
+        },
+        {
+            "timings": {
                 "Fajr": "04:51 (+04)",
                 "Sunrise": "06:05 (+04)",
                 "Dhuhr": "12:24 (+04)",
@@ -35,9 +118,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "01-09-1443",
+                    "date": "02-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "01",
+                    "day": "02",
                     "weekday": {
                         "en": "Al Ahad",
                         "ar": "\u0627\u0644\u0627\u062d\u062f"
@@ -52,9 +135,7 @@
                         "abbreviated": "AH",
                         "expanded": "Anno Hegirae"
                     },
-                    "holidays": [
-                        "1st Day of Ramadan"
-                    ]
+                    "holidays": []
                 }
             },
             "meta": {
@@ -118,9 +199,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "02-09-1443",
+                    "date": "03-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "02",
+                    "day": "03",
                     "weekday": {
                         "en": "Al Athnayn",
                         "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
@@ -199,9 +280,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "03-09-1443",
+                    "date": "04-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "03",
+                    "day": "04",
                     "weekday": {
                         "en": "Al Thalaata",
                         "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
@@ -280,9 +361,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "04-09-1443",
+                    "date": "05-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "04",
+                    "day": "05",
                     "weekday": {
                         "en": "Al Arba'a",
                         "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
@@ -361,9 +442,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "05-09-1443",
+                    "date": "06-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "05",
+                    "day": "06",
                     "weekday": {
                         "en": "Al Khamees",
                         "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
@@ -442,9 +523,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "06-09-1443",
+                    "date": "07-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "06",
+                    "day": "07",
                     "weekday": {
                         "en": "Al Juma'a",
                         "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
@@ -523,9 +604,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "07-09-1443",
+                    "date": "08-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "07",
+                    "day": "08",
                     "weekday": {
                         "en": "Al Sabt",
                         "ar": "\u0627\u0644\u0633\u0628\u062a"
@@ -604,9 +685,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "08-09-1443",
+                    "date": "09-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "08",
+                    "day": "09",
                     "weekday": {
                         "en": "Al Ahad",
                         "ar": "\u0627\u0644\u0627\u062d\u062f"
@@ -685,9 +766,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "09-09-1443",
+                    "date": "10-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "09",
+                    "day": "10",
                     "weekday": {
                         "en": "Al Athnayn",
                         "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
@@ -766,9 +847,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "10-09-1443",
+                    "date": "11-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "10",
+                    "day": "11",
                     "weekday": {
                         "en": "Al Thalaata",
                         "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
@@ -847,9 +928,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "11-09-1443",
+                    "date": "12-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "11",
+                    "day": "12",
                     "weekday": {
                         "en": "Al Arba'a",
                         "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
@@ -928,9 +1009,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "12-09-1443",
+                    "date": "13-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "12",
+                    "day": "13",
                     "weekday": {
                         "en": "Al Khamees",
                         "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
@@ -1009,9 +1090,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "13-09-1443",
+                    "date": "14-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "13",
+                    "day": "14",
                     "weekday": {
                         "en": "Al Juma'a",
                         "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
@@ -1090,9 +1171,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "14-09-1443",
+                    "date": "15-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "14",
+                    "day": "15",
                     "weekday": {
                         "en": "Al Sabt",
                         "ar": "\u0627\u0644\u0633\u0628\u062a"
@@ -1171,9 +1252,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "15-09-1443",
+                    "date": "16-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "15",
+                    "day": "16",
                     "weekday": {
                         "en": "Al Ahad",
                         "ar": "\u0627\u0644\u0627\u062d\u062f"
@@ -1252,9 +1333,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "16-09-1443",
+                    "date": "17-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "16",
+                    "day": "17",
                     "weekday": {
                         "en": "Al Athnayn",
                         "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
@@ -1333,9 +1414,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "17-09-1443",
+                    "date": "18-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "17",
+                    "day": "18",
                     "weekday": {
                         "en": "Al Thalaata",
                         "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
@@ -1414,9 +1495,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "18-09-1443",
+                    "date": "19-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "18",
+                    "day": "19",
                     "weekday": {
                         "en": "Al Arba'a",
                         "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
@@ -1495,9 +1576,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "19-09-1443",
+                    "date": "20-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "19",
+                    "day": "20",
                     "weekday": {
                         "en": "Al Khamees",
                         "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
@@ -1576,9 +1657,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "20-09-1443",
+                    "date": "21-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "20",
+                    "day": "21",
                     "weekday": {
                         "en": "Al Juma'a",
                         "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
@@ -1593,7 +1674,9 @@
                         "abbreviated": "AH",
                         "expanded": "Anno Hegirae"
                     },
-                    "holidays": []
+                    "holidays": [
+                        "Lailat-ul-Qadr"
+                    ]
                 }
             },
             "meta": {
@@ -1657,9 +1740,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "21-09-1443",
+                    "date": "22-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "21",
+                    "day": "22",
                     "weekday": {
                         "en": "Al Sabt",
                         "ar": "\u0627\u0644\u0633\u0628\u062a"
@@ -1674,9 +1757,7 @@
                         "abbreviated": "AH",
                         "expanded": "Anno Hegirae"
                     },
-                    "holidays": [
-                        "Lailat-ul-Qadr"
-                    ]
+                    "holidays": []
                 }
             },
             "meta": {
@@ -1740,9 +1821,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "22-09-1443",
+                    "date": "23-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "22",
+                    "day": "23",
                     "weekday": {
                         "en": "Al Ahad",
                         "ar": "\u0627\u0644\u0627\u062d\u062f"
@@ -1757,7 +1838,9 @@
                         "abbreviated": "AH",
                         "expanded": "Anno Hegirae"
                     },
-                    "holidays": []
+                    "holidays": [
+                        "Lailat-ul-Qadr"
+                    ]
                 }
             },
             "meta": {
@@ -1821,9 +1904,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "23-09-1443",
+                    "date": "24-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "23",
+                    "day": "24",
                     "weekday": {
                         "en": "Al Athnayn",
                         "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
@@ -1838,9 +1921,7 @@
                         "abbreviated": "AH",
                         "expanded": "Anno Hegirae"
                     },
-                    "holidays": [
-                        "Lailat-ul-Qadr"
-                    ]
+                    "holidays": []
                 }
             },
             "meta": {
@@ -1904,9 +1985,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "24-09-1443",
+                    "date": "25-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "24",
+                    "day": "25",
                     "weekday": {
                         "en": "Al Thalaata",
                         "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
@@ -1921,7 +2002,9 @@
                         "abbreviated": "AH",
                         "expanded": "Anno Hegirae"
                     },
-                    "holidays": []
+                    "holidays": [
+                        "Lailat-ul-Qadr"
+                    ]
                 }
             },
             "meta": {
@@ -1985,9 +2068,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "25-09-1443",
+                    "date": "26-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "25",
+                    "day": "26",
                     "weekday": {
                         "en": "Al Arba'a",
                         "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
@@ -2002,9 +2085,7 @@
                         "abbreviated": "AH",
                         "expanded": "Anno Hegirae"
                     },
-                    "holidays": [
-                        "Lailat-ul-Qadr"
-                    ]
+                    "holidays": []
                 }
             },
             "meta": {
@@ -2068,9 +2149,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "26-09-1443",
+                    "date": "27-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "26",
+                    "day": "27",
                     "weekday": {
                         "en": "Al Khamees",
                         "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
@@ -2085,7 +2166,9 @@
                         "abbreviated": "AH",
                         "expanded": "Anno Hegirae"
                     },
-                    "holidays": []
+                    "holidays": [
+                        "Lailat-ul-Qadr"
+                    ]
                 }
             },
             "meta": {
@@ -2149,9 +2232,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "27-09-1443",
+                    "date": "28-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "27",
+                    "day": "28",
                     "weekday": {
                         "en": "Al Juma'a",
                         "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
@@ -2166,9 +2249,7 @@
                         "abbreviated": "AH",
                         "expanded": "Anno Hegirae"
                     },
-                    "holidays": [
-                        "Lailat-ul-Qadr"
-                    ]
+                    "holidays": []
                 }
             },
             "meta": {
@@ -2232,9 +2313,9 @@
                     }
                 },
                 "hijri": {
-                    "date": "28-09-1443",
+                    "date": "29-09-1443",
                     "format": "DD-MM-YYYY",
-                    "day": "28",
+                    "day": "29",
                     "weekday": {
                         "en": "Al Sabt",
                         "ar": "\u0627\u0644\u0633\u0628\u062a"
@@ -2249,7 +2330,9 @@
                         "abbreviated": "AH",
                         "expanded": "Anno Hegirae"
                     },
-                    "holidays": []
+                    "holidays": [
+                        "Lailat-ul-Qadr"
+                    ]
                 }
             },
             "meta": {
@@ -2313,95 +2396,12 @@
                     }
                 },
                 "hijri": {
-                    "date": "29-09-1443",
-                    "format": "DD-MM-YYYY",
-                    "day": "29",
-                    "weekday": {
-                        "en": "Al Ahad",
-                        "ar": "\u0627\u0644\u0627\u062d\u062f"
-                    },
-                    "month": {
-                        "number": 9,
-                        "en": "Rama\u1e0d\u0101n",
-                        "ar": "\u0631\u064e\u0645\u064e\u0636\u0627\u0646"
-                    },
-                    "year": "1443",
-                    "designation": {
-                        "abbreviated": "AH",
-                        "expanded": "Anno Hegirae"
-                    },
-                    "holidays": [
-                        "Lailat-ul-Qadr"
-                    ]
-                }
-            },
-            "meta": {
-                "latitude": 25.2048493,
-                "longitude": 55.2707828,
-                "timezone": "Asia\/Dubai",
-                "method": {
-                    "name": "Custom",
-                    "params": {
-                        "Fajr": "18.5",
-                        "Isha": "18.5",
-                        "Maghrib": "null"
-                    }
-                },
-                "latitudeAdjustmentMethod": "ANGLE_BASED",
-                "midnightMode": "STANDARD",
-                "school": "STANDARD",
-                "offset": {
-                    "Imsak": "2",
-                    "Fajr": "2",
-                    "Sunrise": "-4",
-                    "Dhuhr": "2",
-                    "Asr": "3",
-                    "Maghrib": "4",
-                    "Sunset": "4",
-                    "Isha": "-1",
-                    "Midnight": 0
-                }
-            }
-        },
-        {
-            "timings": {
-                "Fajr": "04:20 (+04)",
-                "Sunrise": "05:38 (+04)",
-                "Dhuhr": "12:18 (+04)",
-                "Asr": "15:47 (+04)",
-                "Sunset": "18:54 (+04)",
-                "Maghrib": "18:54 (+04)",
-                "Isha": "20:13 (+04)",
-                "Imsak": "04:10 (+04)",
-                "Midnight": "00:16 (+04)"
-            },
-            "date": {
-                "readable": "02 May 2022",
-                "timestamp": "1651467661",
-                "gregorian": {
-                    "date": "02-05-2022",
-                    "format": "DD-MM-YYYY",
-                    "day": "02",
-                    "weekday": {
-                        "en": "Monday"
-                    },
-                    "month": {
-                        "number": 5,
-                        "en": "May"
-                    },
-                    "year": "2022",
-                    "designation": {
-                        "abbreviated": "AD",
-                        "expanded": "Anno Domini"
-                    }
-                },
-                "hijri": {
                     "date": "30-09-1443",
                     "format": "DD-MM-YYYY",
                     "day": "30",
                     "weekday": {
-                        "en": "Al Athnayn",
-                        "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
+                        "en": "Al Ahad",
+                        "ar": "\u0627\u0644\u0627\u062d\u062f"
                     },
                     "month": {
                         "number": 9,
